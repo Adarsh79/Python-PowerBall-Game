@@ -2,7 +2,8 @@
 
 Welcome to **PowerBall Mania**, the ultimate destination for all your powerball gaming needs! 🎉
 
-[![PowerBall Mania Logo](https://w7.pngwing.com/pngs/350/766/png-transparent-lottery-number-powerball-ten-s-purple-text-violet-thumbnail.png)(https://github.com/Adarsh79/Python-PowerBall-Game)]
+[![PowerBall Mania Logo](https://w7.pngwing.com/pngs/350/766/png-transparent-lottery-number-powerball-ten-s-purple-text-violet-thumbnail.png)
+(https://github.com/Adarsh79/Python-PowerBall-Game)]
 
 Are you ready to test your luck and see if you can become the next powerball millionaire? Look no further – we've got you covered. Our simple yet addictive PowerBall game implementation will have you on the edge of your seat, eagerly awaiting those lucky numbers!
 
