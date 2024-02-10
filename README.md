@@ -2,9 +2,6 @@
 
 Welcome to **PowerBall Mania**, the ultimate destination for all your powerball gaming needs! 🎉
 
-
-(https://github.com/Adarsh79/Python-PowerBall-Game)
-
 Are you ready to test your luck and see if you can become the next powerball millionaire? Look no further – we've got you covered. Our simple yet addictive PowerBall game implementation will have you on the edge of your seat, eagerly awaiting those lucky numbers!
 
 ## How to Play
@@ -27,14 +24,8 @@ Are you ready to test your luck and see if you can become the next powerball mil
 1. Clone the repository: `git clone https://github.com/Adarsh79/Python-PowerBall-Game.git`
 2. Get ready to unleash your inner powerball wizard!
 
-## Contributions
-
-Feeling lucky and want to contribute to PowerBall Mania? We'd love to have you on board! Whether you're a coding genius or a design guru, your contributions are always welcome. Just fork the repository, make your magic happen, and submit a pull request – let's make PowerBall Mania even more fantastic together.
-
 ---
 
 Get ready to roll those numbers and experience the thrill of PowerBall Mania firsthand. Join us on this electrifying journey, and may the odds be ever in your favor! 💰🎉🔮
-
-Ready to play? [Click here to get started!](https://github.com/Adarsh79/Python-PowerBall-Game)
 
 *"PowerBall Mania" is not affiliated with the official PowerBall lottery and is intended for entertainment purposes only.*
