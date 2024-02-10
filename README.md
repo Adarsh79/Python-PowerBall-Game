@@ -2,8 +2,6 @@
 
 Welcome to **PowerBall Mania**, the ultimate destination for all your powerball gaming needs! 🎉
 
-![PowerBall Mania Logo](https://w7.pngwing.com/pngs/350/766/png-transparent-lottery-number-powerball-ten-s-purple-text-violet-thumbnail.png)
-
 
 (https://github.com/Adarsh79/Python-PowerBall-Game)
 
